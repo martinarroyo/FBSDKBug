@@ -74,4 +74,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('TestFBSDKBug', () => TestFBSDKBug);
+AppRegistry.registerComponent('testsdkbug', () => TestFBSDKBug);
