@@ -10,7 +10,7 @@
 		"prop-types": "^15.5.10",
 		"react": "~15.4.1",
 		"react-native": "0.42.0",
-		"react-native-fbsdk": "^0.6.0"
+		"react-native-fbsdk": "git+https://github.com/motius/react-native-fbsdk.git#fix-views"
 	},
 	"devDependencies": {
 		"babel-jest": "20.0.3",
